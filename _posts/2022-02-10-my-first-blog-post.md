@@ -1,4 +1,4 @@
 ---
-title: "Welcome to DD blog"
+title: "Welcome to Daniels blog"
 date: 2022-02-10
 ---
